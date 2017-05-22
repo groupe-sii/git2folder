@@ -58,7 +58,7 @@ Imagine you have a working directory `trainings` :
 │   └── typescript-tps
 ```
 
-And you want to extract all the branches of `typescript-tps`, stay at the root of `trainings`, make a tmp directoy, and launch git2folder:
+And you want to extract all the branches of `typescript-tps`, stay at the root of `trainings`, make a tmp directory, and launch git2folder:
 
 ```sh
 mkdir typescript-tps-tmp
