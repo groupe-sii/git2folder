@@ -43,6 +43,8 @@ Branches `develop` and `master` are ignored, the git repository must have at lea
 
 > WARNING : the `extractFolder`  is cleaned when `extract` is called and `branches` are destroyed on `update`.
 
+> WARNING : the `update` command use the local folders in an alphabetical order.
+
 each action prompts questions :
 > `gitFolder` : to indicate git repository folder (relative to current dir)
 > `extractFolder` : to indicate the directory where branches will be extracted or where it should take folder (depending of the action)
