@@ -47,7 +47,7 @@ each action prompts questions :
 > `gitFolder` : to indicate git repository folder (relative to current dir)
 > `extractFolder` : to indicate the directory where branches will be extracted or where it should take folder (depending of the action)
 
-#### Examples
+### Examples
 
 Imagine you have a working directory `trainings` :
 
