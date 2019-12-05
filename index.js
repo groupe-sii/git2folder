@@ -31,7 +31,7 @@ class App{
             })
             .catch(console.error);
         }else{
-            console.log('usage : gtf <extract|update>');
+            console.log('usage : git2folder <extract|update>');
         }
     }
 }

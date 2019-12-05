@@ -1,20 +1,20 @@
 {
-  "name": "git2folder",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "bin":{
-    "git2folder":"bin/git2folder.js"
-  },
-  "scripts": {
-    "start": "index.js"
-  },
-  "keywords": [],
-  "author": "Matthieu Bréchet <mbrechet@sii.fr>",
-  "license": "ISC",
-  "dependencies": {
-    "commander": "^2.9.0",
-    "inquirer": "^3.0.1",
-    "rimraf": "^2.5.4"
-  }
+    "name": "git2folder",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "bin": {
+        "git2folder": "bin/git2folder.js"
+    },
+    "scripts": {
+        "start": "index.js"
+    },
+    "keywords": [],
+    "author": "Matthieu Bréchet <mbrechet@sii.fr>",
+    "license": "ISC",
+    "dependencies": {
+        "commander": "^4.0.1",
+        "inquirer": "^7.0.0",
+        "rimraf": "^3.0.0"
+    }
 }
